@@ -26,7 +26,7 @@ X X X X
 
 X X X X
 
-X 0 X X
+X O X X
 
 Surrounded regions shouldn’t be on the border, which means that any 'O' on the border of the board are not flipped to 'X'. 
 
