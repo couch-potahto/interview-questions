@@ -1,6 +1,6 @@
 # TraceTogether Interview Question 2
 
-You are free to use the language and IDE of your choice. YOu are expected to consider edge cases and come up with test cases on your own
+You are free to use the language and IDE of your choice. You are expected to consider edge cases and come up with test cases on your own
 
 ###  Question 2
 
