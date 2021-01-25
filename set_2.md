@@ -11,15 +11,21 @@ A region is captured bu flipping all 'O's into 'X's in the surrounded region
 #### Example
 
 X X X X
+
 X O O X
+
 X X O X
+
 X O X X
 
 After running your function, the board should be
 
 X X X X
+
 X X X X
+
 X X X X
+
 X 0 X X
 
 Surrounded regions shouldn’t be on the border, which means that any 'O' on the border of the board are not flipped to 'X'. 
